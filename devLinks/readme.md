@@ -5,3 +5,4 @@
 - [devdocs](https://devdocs.io/)
 - [hashnode](https://hashnode.com/)
 - [dailydev](https://daily.dev/)
+- [learnanything](https://learn-anything.xyz/)
