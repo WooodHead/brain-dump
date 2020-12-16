@@ -2,4 +2,5 @@
 
 ## Table of contents
 
+- gitZsh
 - tmux

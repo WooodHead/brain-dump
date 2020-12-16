@@ -50,3 +50,6 @@
 - [notion](https://www.notion.so/)
 - [compresspngcom](https://compresspng.com/)
 - [compressorio](https://compressor.io/)
+- [svg-editor](http://www.clker.com/inc/svgedit/svg-editor.html)
+- [json-formatter-validator](https://jsonformatter.curiousconcept.com/)
+- [csv-json](https://csvjson.com/)
