@@ -8,7 +8,6 @@
 - [ES6 features](https://github.com/lukehoban/es6features)
 - [The Definitive Guide to Object-Oriented JavaScript](https://www.youtube.com/watch?v=PMfcsYzj-9M) - Amazing video to understand JS inheritance & objects.
 - [JavaScript is Good, Actually](https://ashfurrow.com/blog/javascript-is-good-actually/) ([HN](https://news.ycombinator.com/item?id=17079952))
-- [JavaScript ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 - [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 - [EC6 Features](http://es6-features.org/)
 - [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
