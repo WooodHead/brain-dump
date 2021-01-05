@@ -227,3 +227,4 @@
 - [EStimator.dev](https://estimator.dev/) - Calculate the size and performance impact of switching to modern JavaScript syntax. ([Code](https://github.com/GoogleChromeLabs/estimator.dev))
 - [Publish, ship, and install modern JavaScript for faster applications (2020)](https://web.dev/publish-modern-javascript/)
 - [Universal JavaScript Build and Packaging](https://github.com/mikeal/ipjs)
+- [JavaScript quirks](https://quirksmode.org/js/contents.html)

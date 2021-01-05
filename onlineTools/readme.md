@@ -94,3 +94,4 @@
 - [free-logo-maker](https://www.namecheap.com/logo-maker/)
 - [tiny-png](https://tinypng.com/)
 - [glitch](https://1loc.dev/)
+- [softwareengineering-daily](https://softwareengineeringdaily.com/)
