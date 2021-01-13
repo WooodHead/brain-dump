@@ -3,6 +3,7 @@
 - [ ] FullStack Node and React
 - [ ] SQL RDBMS
 - [ ] Docker
+- [ ] Tailwind CSS
 - [ ] Linux
 - [ ] Data structure and Algorithms
 - [ ] Webpack

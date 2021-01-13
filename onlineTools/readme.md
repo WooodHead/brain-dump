@@ -96,3 +96,4 @@
 - [glitch](https://1loc.dev/)
 - [softwareengineering-daily](https://softwareengineeringdaily.com/)
 - [codelf](https://unbug.github.io/codelf/)
+- [cheatography](https://cheatography.com/programming/)
