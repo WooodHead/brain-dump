@@ -6,3 +6,4 @@
 - [hashnode](https://hashnode.com/)
 - [dailydev](https://daily.dev/)
 - [learnanything](https://learn-anything.xyz/)
+- [bloggingfordevs](https://bloggingfordevs.com/javascript-blogs/)
