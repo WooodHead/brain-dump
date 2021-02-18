@@ -1,6 +1,6 @@
 ### Things I will learn in 2021
 
-- [ ] FullStack Node and React
+- [x] FullStack Node and React
 - [ ] SQL RDBMS
 - [ ] Docker
 - [ ] Tailwind CSS
