@@ -8,7 +8,7 @@
 - [ ] Linux
 - [ ] Data structure and Algorithms
 - [x] Webpack
-- [ ] JavaScript Advance Concepts
+- [x] JavaScript Advance Concepts
 - [ ] TypeScript Advance Concepts
 - [ ] Foundation Stock Trading
 - [ ] Domain Flipping

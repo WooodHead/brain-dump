@@ -200,7 +200,6 @@
 - [ESTree Spec](https://github.com/estree/estree) - Manipulate JavaScript source code.
 - [Pattern Matching in JavaScript (2020)](https://kyleshevlin.com/pattern-matching)
 - [How to chain methods in JS in order to write concise and readable code (2020)](https://medium.com/@laflamablanc/method-chaining-and-javascript-7d840d6e3687)
-- [npmview](https://npmview.now.sh/) - Web application to view npm package files. ([Code](https://github.com/pd4d10/npmview))
 - [Metadata Reflection API for JS](https://github.com/rbuckton/reflect-metadata)
 - [SurviveJS](https://survivejs.com/) - Learn JavaScript. From apprentice to master.
 - [Composing Closures and Callbacks in JavaScript (2020)](https://egghead.io/playlists/composing-closures-and-callbacks-in-javascript-1223)
@@ -230,3 +229,4 @@
 - [JavaScript quirks](https://quirksmode.org/js/contents.html)
 - [A javascript project with some resources](https://www.java5cript.com/)
 - [Robotics in JavaScript](http://johnny-five.io/)
+- [Weird stuff in JavaScript](https://jsisweird.com/)
