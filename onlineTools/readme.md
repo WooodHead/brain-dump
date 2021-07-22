@@ -97,3 +97,6 @@
 - [softwareengineering-daily](https://softwareengineeringdaily.com/)
 - [codelf](https://unbug.github.io/codelf/)
 - [cheatography](https://cheatography.com/programming/)
+- [toolb](https://www.toolb.dev/)
+- [cleansvg](https://jakearchibald.github.io/svgomg/)
+- [svgcrop](https://svgcrop.com/)

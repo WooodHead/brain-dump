@@ -230,3 +230,4 @@
 - [A javascript project with some resources](https://www.java5cript.com/)
 - [Robotics in JavaScript](http://johnny-five.io/)
 - [Weird stuff in JavaScript](https://jsisweird.com/)
+- [33 JS concepts](https://github.com/leonardomso/33-js-concepts)

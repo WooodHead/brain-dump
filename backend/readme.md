@@ -1,0 +1,1 @@
+- [Collection of NestJS resources](https://github.com/juliandavidmr/awesome-nestjs)
