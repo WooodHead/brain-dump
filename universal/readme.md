@@ -5,3 +5,4 @@
 - [Neville Goddard Teaching](https://nevillegoddardbooks.com/)
 - [Neville Goddard](https://www.realneville.com/)
 - [The Power of awareness](http://www.thepowerofawareness.org/)
+- [Neville All lectures](https://realneville.com/text_archive_pdf.htm)
